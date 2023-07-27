@@ -1,4 +1,8 @@
 # github-final-project
-This my first task as a micro finance worker
-This is repo to manage code in git
-Repo for a microfinance start up
+A calculator that calculate simple interest given principal, annual rate of interest and time period in years.
+Input:
+p, principal amount
+t, time period in years
+r, annual rate of interest
+Output:
+Simple interet = p*t*r
